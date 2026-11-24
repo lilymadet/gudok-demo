@@ -1,0 +1,4181 @@
+{
+ "version": 1,
+ "org": "ТЧ-7 (DEMO)",
+ "itemName": "Gudok",
+ "normMonths": 36,
+ "yellowDays": 90,
+ "redDays": 30,
+ "admin": {
+  "login": "admin",
+  "passHash": "6051fc84a7a0d74c225fb18a496b09952da5642e60723ecae543298edd7d82d6",
+  "mustChange": false,
+  "name": "Muhandis (demo)",
+  "contact": "Demo versiya: ma'lumotlar o'ylab topilgan"
+ },
+ "workers": [
+  {
+   "tabel": "5001",
+   "fio": "Рахимов Акмал Нурмуратович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-13",
+     "next": "2027-02-13",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-22",
+     "next": "2027-04-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-05-02",
+     "next": "2027-05-01",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5002",
+   "fio": "Алимов Даврон Нурмуратович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-07",
+     "next": "2027-02-07",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-20",
+     "next": "2027-05-20",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-07-04",
+     "next": "2027-07-03",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5003",
+   "fio": "Шарипов Санжар Есбергенович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-09",
+     "next": "2027-02-09",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-28",
+     "next": "2027-04-27",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-09-26",
+     "next": "2027-09-25",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5004",
+   "fio": "Алимов Дилшод Каримович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-30",
+     "next": "2027-01-30",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-13",
+     "next": "2027-04-13",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-08-12",
+     "next": "2027-08-11",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5005",
+   "fio": "Абдуллаев Санжар Ғайратович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-25",
+     "next": "2027-01-25",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-02-12",
+     "next": "2027-02-12",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-03-27",
+     "next": "2027-03-26",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5006",
+   "fio": "Турсунов Илҳом Тўлқинович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-13",
+     "next": "2027-02-13",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-12-04",
+     "next": "2027-06-03",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-04-15",
+     "next": "2027-04-14",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5007",
+   "fio": "Шарипов Акмал Каримович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-16",
+     "next": "2027-02-16",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-25",
+     "next": "2027-05-25",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-18",
+     "next": "2027-10-17",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5008",
+   "fio": "Холматов Ерлан Рашидович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-17",
+     "next": "2027-02-17",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-02",
+     "next": "2027-05-02",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-04-12",
+     "next": "2027-04-11",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5009",
+   "fio": "Ахмедов Илҳом Ғайратович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-10",
+     "next": "2027-02-10",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-10",
+     "next": "2027-05-10",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-01-15",
+     "next": "2027-01-14",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5010",
+   "fio": "Исмоилов Тимур Нурмуратович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-12",
+     "next": "2027-02-12",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-29",
+     "next": "2027-04-28",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-10",
+     "next": "2027-02-09",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5011",
+   "fio": "Утемуратов Даврон Алишерович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-06",
+     "next": "2027-02-06",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-18",
+     "next": "2027-05-18",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-01-26",
+     "next": "2027-01-25",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5012",
+   "fio": "Норматов Тимур Алишерович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-13",
+     "next": "2027-02-13",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-18",
+     "next": "2027-05-18",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-09-24",
+     "next": "2027-09-23",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5013",
+   "fio": "Қурбанов Шерзод Рашидович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-15",
+     "next": "2027-01-15",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-19",
+     "next": "2027-05-19",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-30",
+     "next": "2027-10-29",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5014",
+   "fio": "Ахмедов Даврон Тўлқинович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-11",
+     "next": "2027-02-11",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-27",
+     "next": "2027-02-26",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5015",
+   "fio": "Бекмуратов Шерзод Каримович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-21",
+     "next": "2027-02-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-14",
+     "next": "2027-05-14",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-09",
+     "next": "2027-10-08",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5016",
+   "fio": "Ахмедов Фарҳод Камолович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-16",
+     "next": "2027-02-16",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-02",
+     "next": "2027-05-03",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-07-23",
+     "next": "2027-07-25",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5017",
+   "fio": "Ешмуратов Отабек Алишерович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-06",
+     "next": "2027-02-06",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-19",
+     "next": "2027-05-19",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-04-27",
+     "next": "2027-04-26",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5018",
+   "fio": "Холматов Рустам Абдуллаевич",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-14",
+     "next": "2027-01-14",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-16",
+     "next": "2027-04-16",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-05-16",
+     "next": "2027-05-15",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5019",
+   "fio": "Жўраев Отабек Алишерович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-04",
+     "next": "2027-02-04",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-30",
+     "next": "2027-04-29",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-05-04",
+     "next": "2027-05-03",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5020",
+   "fio": "Ахмедов Санжар Алишерович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-13",
+     "next": "2027-02-13",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-15",
+     "next": "2027-05-15",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-03-03",
+     "next": "2027-03-02",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5021",
+   "fio": "Ешмуратов Бобур Камолович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-01",
+     "next": "2027-02-01",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-11",
+     "next": "2027-05-11",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-04-21",
+     "next": "2027-04-20",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5022",
+   "fio": "Жўраев Отабек Камолович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-09",
+     "next": "2027-02-09",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-11",
+     "next": "2027-04-11",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5023",
+   "fio": "Норматов Санжар Каримович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-29",
+     "next": "2027-01-29",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-08",
+     "next": "2027-05-09",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-01-26",
+     "next": "2027-01-25",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5024",
+   "fio": "Рахимов Умид Тўлқинович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-21",
+     "next": "2027-01-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-20",
+     "next": "2027-11-20",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2024-09-28",
+     "next": "2027-09-25",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5025",
+   "fio": "Юсупов Анвар Алишерович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-18",
+     "next": "2027-02-18",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-23",
+     "next": "2027-05-23",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-08-20",
+     "next": "2027-08-19",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5026",
+   "fio": "Алимов Умид Бахтиёрович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-19",
+     "next": "2027-01-19",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-06-27",
+     "next": "2026-12-27",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-03-09",
+     "next": "2027-03-08",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5027",
+   "fio": "Ешмуратов Рустам Ғайратович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-21",
+     "next": "2027-01-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-20",
+     "next": "2027-04-19",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-09-29",
+     "next": "2027-09-28",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5028",
+   "fio": "Хасанов Тимур Есбергенович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-12",
+     "next": "2027-02-12",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-17",
+     "next": "2027-04-17",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-06-02",
+     "next": "2027-06-01",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5029",
+   "fio": "Қодиров Санжар Есбергенович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-20",
+     "next": "2027-01-20",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-17",
+     "next": "2027-05-18",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2025-12-07",
+     "next": "2026-12-06",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5030",
+   "fio": "Холматов Дилшод Тўлқинович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-22",
+     "next": "2027-01-22",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-29",
+     "next": "2027-04-28",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-08-10",
+     "next": "2027-08-09",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5031",
+   "fio": "Холматов Отабек Тўлқинович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-05",
+     "next": "2027-02-05",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-16",
+     "next": "2027-04-16",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2025-12-18",
+     "next": "2026-12-17",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5032",
+   "fio": "Назаров Азамат Абдуллаевич",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-18",
+     "next": "2027-01-18",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-06",
+     "next": "2027-05-06",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-04-15",
+     "next": "2027-04-14",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5033",
+   "fio": "Каримов Илҳом Ғайратович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-13",
+     "next": "2027-01-13",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-08",
+     "next": "2027-04-08",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-04-12",
+     "next": "2027-04-11",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5034",
+   "fio": "Бекмуратов Акмал Камолович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-09",
+     "next": "2027-02-09",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-05-25",
+     "next": "2026-11-25",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-18",
+     "next": "2027-02-17",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5035",
+   "fio": "Бекмуратов Ерлан Есбергенович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-20",
+     "next": "2027-02-20",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-19",
+     "next": "2027-04-19",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-04-20",
+     "next": "2027-04-19",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5036",
+   "fio": "Қурбанов Отабек Бахтиёрович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-08",
+     "next": "2027-02-08",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-16",
+     "next": "2027-05-17",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-14",
+     "next": "2027-10-13",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5037",
+   "fio": "Жўраев Даврон Бахтиёрович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-16",
+     "next": "2027-01-16",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5038",
+   "fio": "Ешмуратов Азамат Абдуллаевич",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-24",
+     "next": "2027-01-24",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-17",
+     "next": "2027-04-17",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-09",
+     "next": "2027-02-08",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5039",
+   "fio": "Султанов Фарҳод Абдуллаевич",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-09",
+     "next": "2028-02-09",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-20",
+     "next": "2027-04-20",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-07-10",
+     "next": "2027-07-09",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5040",
+   "fio": "Ахмедов Анвар Рашидович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-14",
+     "next": "2028-02-14",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5041",
+   "fio": "Назаров Отабек Рашидович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-22",
+     "next": "2028-01-22",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-01",
+     "next": "2027-05-01",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-07-04",
+     "next": "2027-07-03",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5042",
+   "fio": "Мирзаев Нурлан Нурмуратович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-07",
+     "next": "2028-02-07",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-14",
+     "next": "2027-04-14",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-07-28",
+     "next": "2027-07-27",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5043",
+   "fio": "Холматов Жасур Ғайратович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-23",
+     "next": "2028-01-23",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-05",
+     "next": "2027-05-05",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-08",
+     "next": "2027-02-07",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5044",
+   "fio": "Бекмуратов Нурлан Камолович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-10",
+     "next": "2028-02-10",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-26",
+     "next": "2027-04-25",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-06",
+     "next": "2027-02-05",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5045",
+   "fio": "Утемуратов Санжар Алишерович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-19",
+     "next": "2028-01-19",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-25",
+     "next": "2027-05-25",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-12",
+     "next": "2027-10-11",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5046",
+   "fio": "Мирзаев Сардор Бахтиёрович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-26",
+     "next": "2028-01-26",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-17",
+     "next": "2027-04-16",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-01-22",
+     "next": "2027-01-21",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5047",
+   "fio": "Жўраев Акмал Тўлқинович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-15",
+     "next": "2028-02-15",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-25",
+     "next": "2027-04-24",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-01-04",
+     "next": "2027-01-03",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5048",
+   "fio": "Турсунов Жасур Ғайратович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-16",
+     "next": "2028-02-16",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-27",
+     "next": "2027-05-27",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-03",
+     "next": "2027-02-02",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5049",
+   "fio": "Назаров Сардор Есбергенович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-29",
+     "next": "2028-01-29",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5050",
+   "fio": "Ешмуратов Тимур Бахтиёрович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-17",
+     "next": "2028-02-17",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-10",
+     "next": "2027-05-10",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-05-17",
+     "next": "2027-05-16",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5051",
+   "fio": "Мирзаев Фарҳод Рашидович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-18",
+     "next": "2028-01-18",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-22",
+     "next": "2027-04-22",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-13",
+     "next": "2027-02-12",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5052",
+   "fio": "Норматов Жасур Каримович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-15",
+     "next": "2028-01-15",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-05-27",
+     "next": "2026-11-27",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-22",
+     "next": "2027-02-21",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5053",
+   "fio": "Султанов Сардор Нурмуратович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-01",
+     "next": "2028-02-01",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-21",
+     "next": "2027-04-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-02",
+     "next": "2027-10-01",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5054",
+   "fio": "Юсупов Бекзод Ғайратович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-22",
+     "next": "2028-01-22",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-07",
+     "next": "2027-05-07",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-04-20",
+     "next": "2027-04-19",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5055",
+   "fio": "Юсупов Анвар Тўлқинович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-11-27",
+     "next": "2028-11-27",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5056",
+   "fio": "Норматов Анвар Абдуллаевич",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-12-27",
+     "next": "2028-12-27",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-18",
+     "next": "2027-04-18",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-08-06",
+     "next": "2027-08-05",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5057",
+   "fio": "Холматов Сардор Каримович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-25",
+     "next": "2029-01-25",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-31",
+     "next": "2027-05-01",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-09-20",
+     "next": "2027-09-19",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5058",
+   "fio": "Сабиров Ерлан Есбергенович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-30",
+     "next": "2029-01-30",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-28",
+     "next": "2027-05-28",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-20",
+     "next": "2027-02-19",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5059",
+   "fio": "Исмоилов Акмал Есбергенович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-03",
+     "next": "2029-01-03",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-23",
+     "next": "2027-05-23",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-08",
+     "next": "2027-02-07",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5060",
+   "fio": "Норматов Сардор Ғайратович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-22",
+     "next": "2029-01-22",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-05-17",
+     "next": "2026-11-17",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-05-23",
+     "next": "2027-05-22",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5061",
+   "fio": "Холматов Илҳом Абдуллаевич",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-17",
+     "next": "2029-01-17",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-08",
+     "next": "2027-04-08",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-18",
+     "next": "2027-10-17",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5062",
+   "fio": "Ахмедов Акмал Камолович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-12-28",
+     "next": "2028-12-28",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-09",
+     "next": "2027-05-09",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2025-12-01",
+     "next": "2026-11-30",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5063",
+   "fio": "Сабиров Тимур Абдуллаевич",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-24",
+     "next": "2029-01-24",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-05",
+     "next": "2027-05-05",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-04-16",
+     "next": "2027-04-15",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5064",
+   "fio": "Ешмуратов Бобур Каримович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-12-31",
+     "next": "2028-12-31",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-22",
+     "next": "2027-05-22",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-25",
+     "next": "2027-02-24",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5065",
+   "fio": "Рахимов Бобур Рашидович",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-23",
+     "next": "2029-01-23",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-07",
+     "next": "2027-04-07",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-07-11",
+     "next": "2027-07-10",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5066",
+   "fio": "Султанов Бекзод Абдуллаевич",
+   "position": "Mashinist",
+   "group": "Mashinistlar",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-17",
+     "next": "2029-01-17",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-09",
+     "next": "2027-05-10",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-03-15",
+     "next": "2027-03-14",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5067",
+   "fio": "Турсунов Нурлан Тўлқинович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-05",
+     "next": "2027-02-05",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-04",
+     "next": "2027-05-04",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-08-27",
+     "next": "2027-08-26",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5068",
+   "fio": "Хасанов Шерзод Рашидович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-23",
+     "next": "2027-01-23",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-19",
+     "next": "2027-05-19",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-04-30",
+     "next": "2027-04-29",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5069",
+   "fio": "Хасанов Фарҳод Нурмуратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-06",
+     "next": "2027-02-06",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-05-04",
+     "next": "2026-11-16",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-05-04",
+     "next": "2027-05-03",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5070",
+   "fio": "Қодиров Анвар Абдуллаевич",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-29",
+     "next": "2027-01-29",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-10",
+     "next": "2027-05-11",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-07-17",
+     "next": "2027-07-16",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5071",
+   "fio": "Норматов Рустам Ғайратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-20",
+     "next": "2027-01-20",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-10",
+     "next": "2027-05-11",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-09-25",
+     "next": "2027-09-24",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5072",
+   "fio": "Юсупов Жасур Нурмуратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-14",
+     "next": "2027-01-14",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-18",
+     "next": "2027-05-18",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-01-26",
+     "next": "2027-01-25",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5073",
+   "fio": "Сабиров Отабек Ғайратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-15",
+     "next": "2027-01-15",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-14",
+     "next": "2027-04-13",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-08-31",
+     "next": "2027-08-30",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5074",
+   "fio": "Қодиров Санжар Абдуллаевич",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-26",
+     "next": "2027-01-26",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-11",
+     "next": "2027-05-12",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-09-25",
+     "next": "2027-09-24",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5075",
+   "fio": "Шарипов Азамат Ғайратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-26",
+     "next": "2027-01-26",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5076",
+   "fio": "Назаров Илҳом Ғайратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-10",
+     "next": "2027-02-10",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-07-05",
+     "next": "2027-01-04",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-01-15",
+     "next": "2027-01-14",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5077",
+   "fio": "Ешмуратов Санжар Есбергенович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-31",
+     "next": "2027-01-31",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-28",
+     "next": "2027-04-27",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-08-29",
+     "next": "2027-08-28",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5078",
+   "fio": "Султанов Нурлан Рашидович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-12",
+     "next": "2027-02-12",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-10",
+     "next": "2027-04-10",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-05-21",
+     "next": "2027-05-20",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5079",
+   "fio": "Утемуратов Нурлан Абдуллаевич",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-21",
+     "next": "2027-02-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-27",
+     "next": "2027-04-26",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-05",
+     "next": "2027-02-04",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5080",
+   "fio": "Холматов Илҳом Нурмуратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-28",
+     "next": "2027-01-28",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-28",
+     "next": "2027-04-27",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-10",
+     "next": "2027-02-09",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5081",
+   "fio": "Абдуллаев Фарҳод Бахтиёрович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-18",
+     "next": "2027-02-18",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-02",
+     "next": "2027-05-02",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-11-29",
+     "next": "2027-11-28",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5082",
+   "fio": "Каримов Азамат Тўлқинович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-15",
+     "next": "2027-02-15",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-06-15",
+     "next": "2026-12-15",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-07-07",
+     "next": "2027-07-06",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5083",
+   "fio": "Утемуратов Сардор Каримович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-21",
+     "next": "2027-01-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-17",
+     "next": "2027-04-17",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-07-18",
+     "next": "2027-07-17",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5084",
+   "fio": "Ешмуратов Рустам Камолович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-14",
+     "next": "2027-01-14",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-23",
+     "next": "2027-05-23",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2025-11-20",
+     "next": "2026-11-19",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5085",
+   "fio": "Эргашев Бекзод Камолович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-15",
+     "next": "2027-02-15",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-05",
+     "next": "2027-05-05",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-05-28",
+     "next": "2027-05-27",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5086",
+   "fio": "Тошматов Азамат Бахтиёрович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-21",
+     "next": "2027-02-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-09-29",
+     "next": "2027-03-30",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-01-24",
+     "next": "2027-01-23",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5087",
+   "fio": "Султанов Санжар Тўлқинович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-03",
+     "next": "2028-01-03",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-06-30",
+     "next": "2026-12-30",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-09-26",
+     "next": "2027-09-25",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5088",
+   "fio": "Шарипов Отабек Абдуллаевич",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-12-23",
+     "next": "2027-12-23",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-21",
+     "next": "2027-04-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-09-11",
+     "next": "2027-09-10",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5089",
+   "fio": "Тошматов Жасур Абдуллаевич",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-12-19",
+     "next": "2027-12-19",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-15",
+     "next": "2027-05-15",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-03-11",
+     "next": "2027-03-10",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5090",
+   "fio": "Турсунов Дилшод Ғайратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-12-31",
+     "next": "2027-12-31",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5091",
+   "fio": "Назаров Фарҳод Рашидович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-19",
+     "next": "2028-01-19",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5092",
+   "fio": "Алимов Шерзод Рашидович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-12-18",
+     "next": "2027-12-18",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-26",
+     "next": "2027-04-26",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-09-15",
+     "next": "2027-09-14",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5093",
+   "fio": "Рахимов Дилшод Тўлқинович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-12-28",
+     "next": "2027-12-28",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-27",
+     "next": "2027-04-27",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-03-30",
+     "next": "2027-03-29",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5094",
+   "fio": "Султанов Сардор Ғайратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-11",
+     "next": "2028-01-11",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5095",
+   "fio": "Бекмуратов Сардор Нурмуратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-14",
+     "next": "2028-01-14",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5096",
+   "fio": "Қодиров Илҳом Алишерович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-18",
+     "next": "2028-01-18",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-11",
+     "next": "2027-05-11",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-05-04",
+     "next": "2027-05-03",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5097",
+   "fio": "Юсупов Дилшод Алишерович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-12-31",
+     "next": "2027-12-31",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-01",
+     "next": "2027-05-01",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-17",
+     "next": "2027-10-16",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5098",
+   "fio": "Эргашев Акмал Тўлқинович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-13",
+     "next": "2028-01-13",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-14",
+     "next": "2027-05-15",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-06-27",
+     "next": "2027-06-26",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5099",
+   "fio": "Сабиров Санжар Тўлқинович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-01",
+     "next": "2028-02-01",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-05",
+     "next": "2027-05-05",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-01-26",
+     "next": "2027-01-25",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5100",
+   "fio": "Жўраев Шерзод Ғайратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-03",
+     "next": "2028-02-03",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-08",
+     "next": "2027-05-08",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-05-11",
+     "next": "2027-05-10",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5101",
+   "fio": "Исмоилов Умид Рашидович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-09",
+     "next": "2028-02-09",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-07",
+     "next": "2027-05-08",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-11-01",
+     "next": "2027-10-31",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5102",
+   "fio": "Рахимов Акмал Камолович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-09",
+     "next": "2028-02-09",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5103",
+   "fio": "Мирзаев Олим Нурмуратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-21",
+     "next": "2028-02-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-30",
+     "next": "2027-04-29",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-04-29",
+     "next": "2027-04-28",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5104",
+   "fio": "Сабиров Олим Нурмуратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-19",
+     "next": "2028-01-19",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-21",
+     "next": "2027-04-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-01-18",
+     "next": "2027-01-17",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5105",
+   "fio": "Қурбанов Ерлан Тўлқинович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-06",
+     "next": "2028-02-06",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-09-28",
+     "next": "2027-03-29",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-04",
+     "next": "2027-02-03",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5106",
+   "fio": "Ахмедов Акмал Тўлқинович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-02",
+     "next": "2028-02-02",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-26",
+     "next": "2027-04-25",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-27",
+     "next": "2027-10-26",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5107",
+   "fio": "Назаров Нурлан Ғайратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-02",
+     "next": "2028-02-02",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-03",
+     "next": "2027-04-03",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-01-25",
+     "next": "2027-01-24",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5108",
+   "fio": "Шарипов Жасур Абдуллаевич",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-29",
+     "next": "2028-01-29",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-20",
+     "next": "2027-05-20",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2025-11-28",
+     "next": "2026-11-27",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5109",
+   "fio": "Тошматов Акмал Есбергенович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-20",
+     "next": "2028-02-20",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-02",
+     "next": "2027-05-03",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-05-15",
+     "next": "2027-05-14",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5110",
+   "fio": "Бекмуратов Акмал Абдуллаевич",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-14",
+     "next": "2028-01-14",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-21",
+     "next": "2027-04-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-09-10",
+     "next": "2027-09-09",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5111",
+   "fio": "Рахимов Рустам Ғайратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-13",
+     "next": "2028-01-13",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-29",
+     "next": "2027-04-28",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-08-27",
+     "next": "2027-08-26",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5112",
+   "fio": "Утемуратов Рустам Есбергенович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-21",
+     "next": "2028-02-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-17",
+     "next": "2027-04-17",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-09-28",
+     "next": "2027-09-27",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5113",
+   "fio": "Ешмуратов Умид Нурмуратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-12",
+     "next": "2028-01-12",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-03",
+     "next": "2027-04-03",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-09-18",
+     "next": "2027-09-17",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5114",
+   "fio": "Сабиров Шерзод Алишерович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-25",
+     "next": "2028-01-25",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-16",
+     "next": "2027-05-17",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-06-16",
+     "next": "2027-06-15",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5115",
+   "fio": "Ахмедов Бекзод Каримович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-17",
+     "next": "2028-02-17",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-27",
+     "next": "2027-04-27",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-05-07",
+     "next": "2027-05-06",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5116",
+   "fio": "Хасанов Тимур Нурмуратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-01-20",
+     "next": "2028-01-20",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5117",
+   "fio": "Рахимов Анвар Камолович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-07",
+     "next": "2028-02-07",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-18",
+     "next": "2027-04-17",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-01-14",
+     "next": "2027-01-13",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5118",
+   "fio": "Ешмуратов Отабек Бахтиёрович",
+   "position": "Тепловоз",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-11",
+     "next": "2028-02-11",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-31",
+     "next": "2027-05-01",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-11-11",
+     "next": "2027-11-10",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5119",
+   "fio": "Турсунов Акмал Есбергенович",
+   "position": "Тепловоз",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-02-11",
+     "next": "2028-02-11",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-05-21",
+     "next": "2026-11-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-17",
+     "next": "2027-10-18",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5120",
+   "fio": "Сабиров Рустам Абдуллаевич",
+   "position": "Тепловоз",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-03-12",
+     "next": "2028-03-12",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-29",
+     "next": "2027-04-28",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-04-16",
+     "next": "2027-04-15",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5121",
+   "fio": "Бекмуратов Илҳом Камолович",
+   "position": "",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-12-10",
+     "next": "2028-12-10",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-23",
+     "next": "2027-04-22",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2025-12-01",
+     "next": "2026-11-30",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5122",
+   "fio": "Мирзаев Отабек Тўлқинович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-09",
+     "next": "2029-01-09",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-30",
+     "next": "2027-04-29",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-07-10",
+     "next": "2027-07-09",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5123",
+   "fio": "Каримов Нурлан Каримович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-22",
+     "next": "2029-01-22",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-07",
+     "next": "2027-05-08",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-06-22",
+     "next": "2027-06-21",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5124",
+   "fio": "Бекмуратов Даврон Каримович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-22",
+     "next": "2029-01-22",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-08",
+     "next": "2027-05-09",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-11-28",
+     "next": "2027-11-27",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5125",
+   "fio": "Сабиров Санжар Ғайратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-11",
+     "next": "2029-01-11",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-24",
+     "next": "2027-04-24",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-04-22",
+     "next": "2027-04-21",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5126",
+   "fio": "Юсупов Фарҳод Рашидович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-06",
+     "next": "2029-01-06",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2025-09-10",
+     "next": "2027-03-13",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2025-12-08",
+     "next": "2026-12-07",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5127",
+   "fio": "Исмоилов Сардор Есбергенович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-03",
+     "next": "2029-01-03",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-09",
+     "next": "2027-04-09",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-11-12",
+     "next": "2027-11-11",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5128",
+   "fio": "Қодиров Умид Тўлқинович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-22",
+     "next": "2029-01-22",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2025-05-20",
+     "next": "2027-05-20",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-04",
+     "next": "2027-10-03",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5129",
+   "fio": "Утемуратов Умид Камолович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-21",
+     "next": "2029-01-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-23",
+     "next": "2027-04-22",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-09-26",
+     "next": "2027-09-25",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5130",
+   "fio": "Хасанов Акмал Ғайратович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-15",
+     "next": "2029-01-15",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-12",
+     "next": "2027-05-13",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-18",
+     "next": "2027-02-17",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5131",
+   "fio": "Шарипов Фарҳод Бахтиёрович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-12-30",
+     "next": "2028-12-30",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-20",
+     "next": "2027-04-20",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-18",
+     "next": "2027-02-17",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5132",
+   "fio": "Ахмедов Олим Рашидович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2025-12-29",
+     "next": "2028-12-29",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-07",
+     "next": "2027-05-08",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-05-05",
+     "next": "2027-05-04",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5133",
+   "fio": "Хасанов Бобур Камолович",
+   "position": "Mashinist yordamchisi",
+   "group": "Mashinist yordamchilari",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2026-01-09",
+     "next": "2029-01-09",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5134",
+   "fio": "Эргашев Олим Камолович",
+   "position": "Mashinist",
+   "group": "02-sex",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-15",
+     "next": "2027-02-15",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-12",
+     "next": "2027-05-12",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-08",
+     "next": "2027-10-07",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5135",
+   "fio": "Жўраев Жасур Рашидович",
+   "position": "Mashinist",
+   "group": "02-sex",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-15",
+     "next": "2027-01-15",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-25",
+     "next": "2027-04-24",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-09",
+     "next": "2027-10-08",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5136",
+   "fio": "Норматов Даврон Алишерович",
+   "position": "Mashinist",
+   "group": "02-sex",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-15",
+     "next": "2027-02-15",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-15",
+     "next": "2027-04-14",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-08-03",
+     "next": "2027-08-02",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5137",
+   "fio": "Қодиров Отабек Ғайратович",
+   "position": "Mashinist",
+   "group": "02-sex",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-15",
+     "next": "2027-02-15",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-19",
+     "next": "2027-04-18",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-29",
+     "next": "2027-10-28",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5138",
+   "fio": "Хасанов Нурлан Рашидович",
+   "position": "Mashinist",
+   "group": "02-sex",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-01",
+     "next": "2027-02-01",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5139",
+   "fio": "Тошматов Отабек Абдуллаевич",
+   "position": "Mashinist yordamchisi",
+   "group": "02-sex",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-11",
+     "next": "2027-02-11",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-20",
+     "next": "2027-04-19",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-10",
+     "next": "2027-02-09",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5140",
+   "fio": "Рахимов Илҳом Есбергенович",
+   "position": "Mashinist",
+   "group": "02-sex",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-28",
+     "next": "2027-01-28",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-05",
+     "next": "2027-05-05",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-01",
+     "next": "2027-09-30",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5141",
+   "fio": "Эргашев Отабек Бахтиёрович",
+   "position": "Mashinist",
+   "group": "02-sex",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-17",
+     "next": "2027-01-17",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-05-26",
+     "next": "2026-11-26",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-04-03",
+     "next": "2027-04-02",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5142",
+   "fio": "Назаров Жасур Бахтиёрович",
+   "position": "Mashinist",
+   "group": "02-sex",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-26",
+     "next": "2027-01-26",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5143",
+   "fio": "Хасанов Санжар Бахтиёрович",
+   "position": "Mashinist",
+   "group": "02-sex",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-04",
+     "next": "2027-02-04",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-17",
+     "next": "2027-04-17",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-02-13",
+     "next": "2027-02-12",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5144",
+   "fio": "Норматов Нурлан Алишерович",
+   "position": "Mashinist",
+   "group": "02-sex",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-04",
+     "next": "2027-02-04",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-14",
+     "next": "2027-04-14",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-05-07",
+     "next": "2027-05-06",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5145",
+   "fio": "Султанов Ерлан Нурмуратович",
+   "position": "Mashinist",
+   "group": "02-sex",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-19",
+     "next": "2027-02-19",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-11-24",
+     "next": "2027-05-24",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-10-22",
+     "next": "2027-10-21",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5146",
+   "fio": "Назаров Умид Каримович",
+   "position": "Mashinist",
+   "group": "02-sex",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-17",
+     "next": "2027-01-17",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5147",
+   "fio": "Турсунов Даврон Рашидович",
+   "position": "ТЧМИ",
+   "group": "ТЧМИ",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-19",
+     "next": "2027-01-19",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-04-27",
+     "next": "2026-11-16",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2024-09-25",
+     "next": "2027-09-24",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5148",
+   "fio": "Султанов Нурлан Бахтиёрович",
+   "position": "ТЧМИ",
+   "group": "ТЧМИ",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-08",
+     "next": "2027-02-08",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5149",
+   "fio": "Абдуллаев Фарҳод Рашидович",
+   "position": "ТЧМИ",
+   "group": "ТЧМИ",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-21",
+     "next": "2027-02-21",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-06-07",
+     "next": "2026-12-07",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2026-09-09",
+     "next": "2029-09-05",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5150",
+   "fio": "Шарипов Илҳом Тўлқинович",
+   "position": "ТЧМИ",
+   "group": "ТЧМИ",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-01-12",
+     "next": "2027-01-12",
+     "by": "Demo"
+    },
+    {
+     "typeId": "tibbiy",
+     "given": "2026-10-04",
+     "next": "2027-04-03",
+     "by": "Demo"
+    },
+    {
+     "typeId": "bilim",
+     "given": "2024-12-23",
+     "next": "2027-12-20",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "tabel": "5151",
+   "fio": "Жўраев Рустам Ғайратович",
+   "position": "Texnik bo'lim",
+   "group": "ТЧМИ",
+   "active": true,
+   "passHash": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+   "mustChange": false,
+   "issues": [
+    {
+     "given": "2024-02-12",
+     "next": "2027-02-12",
+     "by": "Demo"
+    }
+   ],
+   "note": ""
+  }
+ ],
+ "dataRev": 2
+}
