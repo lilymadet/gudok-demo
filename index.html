@@ -1,46 +1,50 @@
 <!DOCTYPE html>
-<html>
+<html lang="uz">
 <head>
-  <!--
-    If you are serving your web app in a path other than the root, change the
-    href value below to reflect the base path you are serving from.
-
-    The path provided below has to start and end with a slash "/" in order for
-    it to work correctly.
-
-    For more details:
-    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
-
-    This is a placeholder for base href that will be replaced by the value of
-    the `--base-href` argument provided to `flutter build`.
-  -->
+  <!-- flutter build --base-href qiymati shu yerga qo'yiladi -->
   <base href="/gudok-demo/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Gudok — mehnat muhofazasi muddatlari nazorati tizimi: tibbiy ko'rik, bilimlar sinovi va maxsus kiyimlar muddatlari.">
+  <meta name="theme-color" content="#5B74D6">
 
-  <!-- iOS meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="gudok">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Gudok">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
-
-  <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>gudok</title>
+  <title>Gudok — mehnat muhofazasi muddatlari nazorati</title>
   <link rel="manifest" href="manifest.json">
+
+  <style>
+    html, body { margin: 0; height: 100%; background: #F5F6FB; }
+    /* Flutter yuklanguncha ko'rinadigan ekran */
+    #splash {
+      position: fixed; inset: 0; display: flex; flex-direction: column;
+      align-items: center; justify-content: center; gap: 18px;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      background: #F5F6FB; transition: opacity .35s ease;
+    }
+    #splash img { width: 84px; height: 84px; border-radius: 24px;
+      box-shadow: 0 12px 28px rgba(91,116,214,.28); }
+    #splash .name { font-size: 26px; font-weight: 700; color: #2E3550; }
+    #splash .sub { font-size: 14px; color: #7C859C; margin-top: -10px; }
+    #splash .bar { width: 160px; height: 4px; border-radius: 4px; background: #E3E7F3; overflow: hidden; }
+    #splash .bar::after { content: ""; display: block; width: 40%; height: 100%;
+      background: #5B74D6; border-radius: 4px; animation: slide 1.1s ease-in-out infinite; }
+    @keyframes slide { from { transform: translateX(-100%); } to { transform: translateX(250%); } }
+  </style>
 </head>
 <body>
-  <!--
-    You can customize the "flutter_bootstrap.js" script.
-    This is useful to provide a custom configuration to the Flutter loader
-    or to give the user feedback during the initialization process.
-
-    For more details:
-    * https://docs.flutter.dev/platform-integration/web/initialization
-  -->
+  <div id="splash">
+    <img src="icons/Icon-192.png" alt="">
+    <div class="name">Gudok</div>
+    <div class="sub">Mehnat muhofazasi muddatlari nazorati</div>
+    <div class="bar"></div>
+  </div>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>

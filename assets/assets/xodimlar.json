@@ -4177,5 +4177,16 @@
    "note": ""
   }
  ],
- "dataRev": 2
+ "dataRev": 2,
+ "demo": true,
+ "demoLogins": {
+  "admin": [
+   "admin",
+   "admin2026"
+  ],
+  "worker": [
+   "5001",
+   "1111"
+  ]
+ }
 }

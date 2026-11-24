@@ -1,12 +1,12 @@
 {
-    "name": "gudok",
-    "short_name": "gudok",
+    "name": "Gudok — mehnat muhofazasi muddatlari",
+    "short_name": "Gudok",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#F5F6FB",
+    "theme_color": "#5B74D6",
+    "description": "Tibbiy ko'rik, bilimlar sinovi va maxsus kiyimlar muddatlari nazorati",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
